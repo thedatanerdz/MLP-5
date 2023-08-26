@@ -1,5 +1,5 @@
 # MLP -5
-- Sentiment Analysis classifier of amazon customer reviews
+Sentiment Analysis classifier of amazon customer reviews
 
 
 Industry 
